@@ -65,7 +65,7 @@ Example:
 
 | Group | Conversion Rate |
 |------|------|
-| Control | ~12.04% |
+| Control | ~12.02% |
 | Treatment | ~11.88% |
 
 Visualizations were created to compare conversion performance across groups.
@@ -109,7 +109,7 @@ This test determines whether the observed difference occurred due to **random ch
 | Metric | Value |
 |------|------|
 | Z-Statistic | ~1.31 |
-| P-Value | ~0.189 |
+| P-Value | ~0.226 |
 
 Decision Rule:
 
