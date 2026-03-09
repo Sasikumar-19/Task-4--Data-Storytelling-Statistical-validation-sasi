@@ -147,23 +147,7 @@ Using statistical validation ensures **data-driven decision making** rather than
 
 ---
 
-# 📦 6️⃣ Task-4 Deliverables Included Here
-
-data/
-ab_data.csv
-
-notebooks/
-ab_testing_analysis.ipynb
-
-presentation/
-Task4_Data_Storytelling_Presentation.pptx
-
-report/
-hypothesis_testing_summary.md
-
----
-
-# 🛠 7️⃣ Tools & Technologies Used
+# 🛠 6️⃣ Tools & Technologies Used
 
 - Python
 - Pandas
